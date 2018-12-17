@@ -1,7 +1,16 @@
 #Práctica obligatoria sobre Arrays
 
 ###Normas de entrega
-Se exige hacer al menos un commit para cada uno de los apartados.
+Hay que aceptar la entrega de classroom.
+
+Nada más clonar el repositorio en el IntelliJ en local, hay que crear
+una rama nueva y hacer un commit y un push donde se me mencione (@migueldavidorrico) en
+el mensaje del commit. En ese mensaje del commit debe
+poner vuestro nombre y apellidos. 
+
+**Fecha máxima para ese primer push: 22 de diciembre de 2018**
+
+Después de ese primer push, se exige hacer al menos un commit para cada uno de los apartados.
 No se admiten prácticas que no se hayan subido al repositorio de classroom.
 No es necesario hacer push para todos los commit pero sí hacer un push al terminar la entrega.
 ### Enunciado
